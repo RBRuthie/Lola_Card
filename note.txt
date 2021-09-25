@@ -1,0 +1,64 @@
+
+
+--------------------------------------------------------------------------------
+
+ Follow this google image format  
+   https://drive.google.com/uc?export=view&id=*img_id*
+
+--------------------------------------------------------------------------------
+
+
+                      ***********  EXAMPLE:  ****************
+                      https://drive.google.com/file/d/
+                      1GhIXZxuwtHZbXO2tKS7s_Y5XCMAbdrBV  =  put this at the end of google format
+                      /view?usp=sharing
+
+                      https://drive.google.com/uc?export=view&id=1GhIXZxuwtHZbXO2tKS7s_Y5XCMAbdrBV
+
+
+
+
+------ INSTAGRAM
+https://drive.google.com/file/d/
+1DRt7p15_CRsTwWGw1YH3V6EhuO9wx1bu
+/view?usp=sharing
+
+https://drive.google.com/uc?export=view&id=1DRt7p15_CRsTwWGw1YH3V6EhuO9wx1bu
+
+
+------ FACEBOOK
+https://drive.google.com/file/d/
+1L2hdK4eAPqP9AB2fJJW7MwcFmL5Dj9hA
+/view?usp=sharing
+
+https://drive.google.com/uc?export=view&id=1L2hdK4eAPqP9AB2fJJW7MwcFmL5Dj9hA
+
+
+
+------ YOUTUBE
+https://drive.google.com/file/d/
+1NiiWSXQ8BZdfcwQ4gqZmXNFJAEHY5TXt
+/view?usp=sharing
+
+
+https://drive.google.com/uc?export=view&id=1NiiWSXQ8BZdfcwQ4gqZmXNFJAEHY5TXt
+
+
+
+------ TWITTER
+https://drive.google.com/file/d/
+1wnQBzkCFYdpkFoJ8tfdMJGTwPQDI-9rD
+/view?usp=sharing
+
+https://drive.google.com/uc?export=view&id=1wnQBzkCFYdpkFoJ8tfdMJGTwPQDI-9rD
+
+
+
+------ PINTEREST
+https://drive.google.com/file/d/
+1Sl6DQfJreh4e4B8tFhTLSuQZLv7xCLcO
+/view?usp=sharing
+
+https://drive.google.com/uc?export=view&id=1Sl6DQfJreh4e4B8tFhTLSuQZLv7xCLcO
+
+------
